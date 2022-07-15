@@ -11,5 +11,11 @@ This is a Tkinter application which uses a database to store Contacts. It is an 
 - Efficient and tidy database helper class
 - Divided classes into seperate modules
 - Error checking on creating a new contact
+- Validates user inputs using Regex
 - Stored items in a local database
+
+### Contact Book Window
+
+
+### Add New Window
 
