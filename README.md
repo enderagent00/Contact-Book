@@ -17,5 +17,5 @@ This is a Tkinter application which uses a database to store Contacts. It is an 
 ### Contact Book Window
 ![picture1](https://user-images.githubusercontent.com/97055625/179306847-c0d64ea1-d563-4263-a6d3-6141ec685488.PNG)
 
-### Add New Window
+### Add New Contact Window
 
