@@ -19,3 +19,10 @@ This is a Tkinter application which uses a database to store Contacts. It is an 
 
 ### Add New Contact Window
 
+This is a window which allows the user to add a new contact to the database. 
+
+![picture2](https://user-images.githubusercontent.com/97055625/179306969-0497d9df-5df9-479f-9439-6af241628251.PNG)
+
+Supports error handling, for example it requires the user to enter a name with a valid email and phone number
+
+![picture3](https://user-images.githubusercontent.com/97055625/179307196-853ed2a2-280f-4329-a573-03564e26c807.PNG)
